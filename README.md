@@ -1,6 +1,6 @@
 # How to insatll java on Linux
  
-Next, check if Java is already installed:
+check if Java is already installed:
 ```
 java -version
 ```
